@@ -5,6 +5,7 @@ let student =
      age : 29,
      course : "JS",
 }
+//thirdchange
 student.getDetails = function () 
 {
     console.log ("Name :", this.name);
